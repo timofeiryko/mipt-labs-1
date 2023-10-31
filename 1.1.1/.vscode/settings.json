@@ -1,3 +1,18 @@
 {
-    "cSpell.language": "en,ru-RU,ru"
+    "cSpell.language": "en,ru-RU,ru",
+    "cSpell.words": [
+        "boxenplot",
+        "dataframe",
+        "errorbar",
+        "figheight",
+        "figwidth",
+        "fontsize",
+        "gridspec",
+        "histplot",
+        "qqplot",
+        "sist",
+        "statsmodels",
+        "suptitle",
+        "xticklabels"
+    ]
 }

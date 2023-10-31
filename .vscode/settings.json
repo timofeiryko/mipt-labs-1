@@ -1,3 +1,13 @@
 {
-    "cSpell.language": "en,ru,ru-RU"
+    "cSpell.language": "en,ru,ru-RU",
+    "cSpell.words": [
+        "darkgrid",
+        "ecolor",
+        "errorbar",
+        "figsize",
+        "sist",
+        "whitegrid",
+        "xerr",
+        "yerr"
+    ]
 }
