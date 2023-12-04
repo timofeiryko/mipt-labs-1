@@ -9,4 +9,5 @@ conda env create -f environment.yml
 Ссылки на просмотр ноутбуков через NBViewer:
 
 - [1.1.1. Определение систематических и случайных погрешностей при измерении удельного сопротивления нихромой проволоки](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.1.1/main.ipynb)
-- [1.1.4 Измерение интенсивности радиационного фона](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.1.4/main.ipynb)
+- [1.1.4. Измерение интенсивности радиационного фона](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.1.4/main.ipynb)
+- [1.1.6. Изучение электронного и цифрового осциллографов](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.1.6/main.ipynb)
