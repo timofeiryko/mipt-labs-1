@@ -15,3 +15,4 @@ conda env create -f environment.yml
 - [1.2.3. Определение моментов инерции твердых тел с помощью трифилярного подвеса](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.2.3/main.ipynb)
 -  [1.2.4. Определение главных моментов инерции с помощью крутильных колебаний](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.2.4/main.ipynb)
 -  [1.2.5. Исследование вынужденной регулярной прецессии гироскопа](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.2.5/main.ipynb)
+-  [1.4.8 Измерение модуля Юнга методом акустического резонанса](https://nbviewer.org/github/timofeiryko/mipt-labs-1/blob/main/1.4.8/main.ipynb)
